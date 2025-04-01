@@ -1,4 +1,4 @@
-# A2_Data_Visualization
+# A2_Data_Visualization Antonio Lamúa
 
 # ML Model Trainer
 
