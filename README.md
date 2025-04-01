@@ -63,10 +63,10 @@ Performance metrics:
 - Streamlit components for responsive UI
 
 # requirements.txt
-Copiarstreamlit
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
-pickle-mixin
+1. Copiarstreamlit
+2. pandas
+3. numpy
+4. seaborn
+5. matplotlib
+6. scikit-learn
+7. pickle-mixin
